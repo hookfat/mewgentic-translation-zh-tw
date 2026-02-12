@@ -9,7 +9,7 @@ github網頁版右邊有個release，選最新的一版下載
 將release下載之後 將壓縮檔解壓縮後把data資料夾放到遊戲根目錄
 目錄大概會長以下這樣
 ### data
-### Mewgentics.exe
+### Mewgenics.exe
 ### resources.gpak
 ### steam_api64.dll
 
