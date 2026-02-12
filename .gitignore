@@ -1,4 +1,10 @@
-Output/
+GPAK.Extractor.exe
+
+Output/*
+!Output/data/
+Output/data/*
+!Output/data/text/
+!Output/data/text/**
+
 dist/
 *.zip
-
