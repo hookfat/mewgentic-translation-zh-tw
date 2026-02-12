@@ -6,11 +6,11 @@
 
 ## 使用方法
 將release下載之後 將壓縮檔解壓縮後把data資料夾放到遊戲根目錄
-目錄大概會長這樣
-|-data
-|- Mewgentics.exe
-|- resources.gpak
-|- steam_api64.dll
+目錄大概會長以下這樣
+### data
+### Mewgentics.exe
+### resources.gpak
+### steam_api64.dll
 
 ## 注意事項
 因為我是將中文欄位改在英文欄位中，所以進遊戲前 右鍵遊戲->內容->一般->語言確認是英文
